@@ -1,0 +1,76 @@
+.about {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5em;
+    padding: 50px;
+    background: rgb(157, 158, 158);
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+.band_members {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5em;
+    padding: 50px;
+    background: rgb(157, 158, 158);
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+.tour_background {
+    max-width: 100%;
+}
+
+.team_background {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.album_cover {
+    max-width: 400px;
+    max-height: 400px;
+    display: inline-block;
+    vertical-align: top;
+    padding: 20px;
+}
+
+.album_cover img {
+    width: 100%;
+    height: 100%;
+}
+
+.album_details {
+    max-width: 100%;
+}
+
+.album_details img {
+    width: 100%;
+}
+
+.tour_dates {
+    width: 600px;
+    position: absolute;
+    top: 275px;
+    left: 100px;
+}
+
+.songs h1 {
+    margin-left: 60px;
+}
+
+.songs li {
+    margin-left: 85px;
+    font-size: 36px;
+}
+
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body, html {
+    height: 100%;
+    margin: 0;
+}
