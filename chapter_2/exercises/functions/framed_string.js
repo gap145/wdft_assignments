@@ -1,8 +1,4 @@
 
-var arr1 = ['Hello', 'World', 'kfdjfkdsnfjdshfladskjhl', 'ok'];
-var arr2 = ['The', 'Quick', 'Brown', 'Fox'];
-
-
 // Encapsulate strings in * border
 function printFrame(arr) {
     function fill (str, length, char) {
